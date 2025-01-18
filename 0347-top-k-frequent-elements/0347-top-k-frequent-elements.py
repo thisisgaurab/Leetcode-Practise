@@ -1,22 +1,29 @@
 from collections import defaultdict
-from typing import List
-
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        # Step 1: Count frequencies
         d = defaultdict(int)
         for num in nums:
-            d[num] += 1
+            d[num] += 1     # {1:3, 2:2, 3:1}
+        
+        # created a bucket
+        freq = [[] for i in range(len(nums) +1)] 
 
-        # Step 2: Create frequency buckets
-        freq = [[] for _ in range(len(nums) + 1)]
-        for key, val in d.items():
+        for key, val in d.items():   # {(1, 3), (2, 2), (3, 1)}
             freq[val].append(key)
 
-        # Step 3: Collect top k frequent elements
         res = []
-        for i in range(len(freq) - 1, 0, -1):  # Start from highest frequency
-            for n in sorted(freq[i]):  # Sort elements within the same frequency
+        for i in range(len(freq)-1, 0, -1):
+            for n in freq[i]:
                 res.append(n)
-                if len(res) == k:
-                    return res
+            if len(res) == k:
+                return res
+
+
+
+        
+       
+
+        
+        
+
+        
