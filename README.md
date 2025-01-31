@@ -22,6 +22,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -71,4 +72,9 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
