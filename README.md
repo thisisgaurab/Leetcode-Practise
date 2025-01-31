@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0739-daily-temperatures) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
