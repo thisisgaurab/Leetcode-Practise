@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0128-longest-consecutive-sequence) |
@@ -13,6 +14,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0128-longest-consecutive-sequence) |
