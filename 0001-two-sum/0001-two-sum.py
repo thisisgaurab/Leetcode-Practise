@@ -1,16 +1,12 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+        numSet = {}
 
-        num_set = {}
-
-        for i, num in enumerate(nums):
-
-            rem = target-num
-
-            if rem in num_set:
-                return[num_set[rem], i]
-
-            num_set[num] = i
+        for i in range(len(nums)):
+            rem = target - nums[i]
+            if rem in numSet:
+                return [i, numSet[rem]]
+            
+            numSet[nums[i]] = i
 
         return []
-        
