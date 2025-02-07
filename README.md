@@ -26,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0680-valid-palindrome-ii) |
@@ -70,6 +71,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
