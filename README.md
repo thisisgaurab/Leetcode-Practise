@@ -73,6 +73,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
