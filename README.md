@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0680-valid-palindrome-ii) |
@@ -103,6 +104,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
 ## Design
 |  |
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
