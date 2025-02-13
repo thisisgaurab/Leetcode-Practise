@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -118,4 +119,9 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
