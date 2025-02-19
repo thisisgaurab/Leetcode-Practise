@@ -9,3 +9,5 @@ class Solution:
 
         return len(stack)
         
+        # Time Complexity: O(nlogn)
+        # Space Complexity: O(n)
