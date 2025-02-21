@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0883-car-fleet) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/thisisgaurab/Leetcode-Practise/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
